@@ -1,4 +1,4 @@
-﻿using DoubleList;
+using DoubleList;
 
 var list = new DoubleLinkedList<int>();
 var option = string.Empty;
